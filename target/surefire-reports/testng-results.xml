@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-15T12:22:39 IST" name="Surefire suite" finished-at="2024-01-15T12:22:39 IST" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2024-01-15T12:22:39 IST" name="Surefire test" finished-at="2024-01-15T12:22:39 IST" duration-ms="73">
+      <class name="com.test.maenprj.AppTest">
+        <test-method signature="logincheck()[pri:0, instance:com.test.maenprj.AppTest@1df82230]" started-at="2024-01-15T12:22:39 IST" name="logincheck" finished-at="2024-01-15T12:22:39 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincheck -->
+        <test-method signature="logincheck1()[pri:0, instance:com.test.maenprj.AppTest@1df82230]" started-at="2024-01-15T12:22:39 IST" name="logincheck1" finished-at="2024-01-15T12:22:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincheck1 -->
+      </class> <!-- com.test.maenprj.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
